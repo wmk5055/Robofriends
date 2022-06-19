@@ -18,7 +18,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "first-branch -d build"
+    "deploy": "first-branch -d build",
+    "homepage" : "."
   },
   "eslintConfig": {
     "extends": [
